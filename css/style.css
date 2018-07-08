@@ -1,0 +1,23 @@
+body {
+  font-family: 'Poor Story', sans-serif;
+  background: #E8EAF6;
+}
+section {
+  padding: 0.5rem;
+}
+.title-box {
+  background: #303F9F;
+  color: rgba(255,255,255,0.9);
+  padding: 0.5rem 0;
+  text-align: center;
+}
+.title-box h1,
+.title-box h2 {
+  margin: 0;
+}
+.title {
+  font-family: 'Black Han Sans', serif;
+}
+.icon {
+  font-family: 'Material Icons';
+}
